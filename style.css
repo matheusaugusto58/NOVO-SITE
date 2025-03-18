@@ -1,0 +1,14 @@
+.mc negão original{
+    background-color: black;
+    color: azure;
+    display: flex;
+    padding: 24px 0;
+}
+
+.section1{
+    background-color: brown;
+}
+
+.section2{
+    background-color: blue;
+}
